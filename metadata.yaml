@@ -1,0 +1,39 @@
+_repo: Liebermann_64375
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Rosenhagen, Hans
+    birthdate: 1858
+    deathdate: 1943
+    gutenberg_agent_id: '52874'
+    url: http://www.gutenberg.org/2009/agents/52874
+    wikipedia: https://de.wikipedia.org/wiki/Hans_Rosenhagen
+  editor:
+    agent_name: Knackfuss, H. (Hermann)
+    aliases:
+    - Knackfuß, Hermann
+    - Knackfuss, Hermann
+    birthdate: 1848
+    deathdate: 1915
+    gutenberg_agent_id: '37412'
+    url: http://www.gutenberg.org/2009/agents/37412
+    wikipedia:
+    - https://en.wikipedia.org/wiki/Hermann_Knackfuss
+    - https://de.wikipedia.org/wiki/Hermann_Knackfu%C3%9F
+description: ''
+gutenberg_issued: '2021-01-23'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '64375'
+  lccn: 01013183
+language: de
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+series_note: Künstler-Monographien, 45
+subjects:
+- !lcc 'ND'
+- !lcsh 'Liebermann, Max, 1847-1935'
+- GITenberg
+title: Liebermann
+url: http://www.gutenberg.org/ebooks/64375
